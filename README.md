@@ -60,6 +60,9 @@ git clone https://github.com/Sanket-HP/Phone-Number-Validator-FreeCodeCamp-Javas
 - "55 55-55-555-5"
 - "11 555-555-5555"
 
+## Author
+Sanket Sarjerao More-Patil
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
