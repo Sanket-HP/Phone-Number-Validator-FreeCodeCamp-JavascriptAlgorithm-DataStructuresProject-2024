@@ -19,7 +19,7 @@ This is a simple web application that validates US phone numbers based on specif
 
 ##How to Use
 1. Clone the repository:
-git clone https://github.com/your-username/phone-number-validator.git
+git clone https://github.com/Sanket-HP/Phone-Number-Validator-FreeCodeCamp-JavascriptAlgorithm-DataStructuresProject-2024.git
 
 2. Navigate into the project directory.
 
